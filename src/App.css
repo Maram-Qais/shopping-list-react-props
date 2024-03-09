@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(37, 37, 36);
+  border-radius: 10px;
+}
+
+
+.shopping-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.shopping-list-item {
+  margin-bottom: 10px; 
+
+}
